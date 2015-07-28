@@ -12,6 +12,6 @@ Today is not as expected because of weather. However, I am very happy to have yo
 <figure>
 	<img src="/images/myImages/20150725/tida.PNG" alt="">
 	<img src="/images/myImages/20150725/LisaAnd600.jpg" alt="">
-	<img src="/images/myImages/20150725/SteelyAndJun.jpg" alt="">
-	<img src="/images/myImages/20150725/SteelyAndLisa.jpg" alt="">
+	<img src="/images/myImages/20150725/SteelyAndJun.JPG" alt="">
+	<img src="/images/myImages/20150725/SteelyAndLisa.JPG" alt="">
 </figure>

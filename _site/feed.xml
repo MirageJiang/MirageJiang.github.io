@@ -4,12 +4,12 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-07-26T02:44:03-04:00</updated>
+<updated>2015-07-28T00:55:58-04:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Napping</name>
   <uri>http://localhost:4000/</uri>
-  <email>jiangnanpinghunan@email.com</email>
+  <email>jiangnanpinghunan@gmail.com</email>
 </author>
 
 
@@ -22,7 +22,7 @@
   <author>
     <name>Napping</name>
     <uri>http://localhost:4000</uri>
-    <email>jiangnanpinghunan@email.com</email>
+    <email>jiangnanpinghunan@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;Today is not as expected because of weather. However, I am very happy to have you guys around me. Actually, that is more important than any beautiful view.&lt;/p&gt;
@@ -30,8 +30,8 @@
 &lt;figure&gt;
 	&lt;img src=&quot;/images/myImages/20150725/tida.PNG&quot; alt=&quot;&quot; /&gt;
 	&lt;img src=&quot;/images/myImages/20150725/LisaAnd600.jpg&quot; alt=&quot;&quot; /&gt;
-	&lt;img src=&quot;/images/myImages/20150725/SteelyAndJun.jpg&quot; alt=&quot;&quot; /&gt;
-	&lt;img src=&quot;/images/myImages/20150725/SteelyAndLisa.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;/images/myImages/20150725/SteelyAndJun.JPG&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;/images/myImages/20150725/SteelyAndLisa.JPG&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/MountainRainier/&quot;&gt;Raining in MountainRainier&lt;/a&gt; was originally published by Napping at &lt;a href=&quot;http://localhost:4000&quot;&gt;Into the Wild&lt;/a&gt; on July 25, 2015.&lt;/p&gt;
@@ -48,7 +48,7 @@
   <author>
     <name>Napping</name>
     <uri>http://localhost:4000</uri>
-    <email>jiangnanpinghunan@email.com</email>
+    <email>jiangnanpinghunan@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;I love this city! I never exepcted that I can live in such wonderful city for almost three months.&lt;/p&gt;
